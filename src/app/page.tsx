@@ -124,7 +124,7 @@ export default function Page() {
         <img src="/icons/next.svg" alt="Next.js" style={{ width: '50px', height: 'auto', margin: '0 10px' }} />
       </div>
       
-      <audio ref={audioRef} src="/audios/03 CACHORRÃO-DO-BREGA-2020.mp3" />
+      <audio ref={audioRef} src="/audios/03-CACHORRÃO-DO-BREGA-2020.mp3" />
     </div>
   );
 }
